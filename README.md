@@ -33,7 +33,3 @@ I believe in clean code, powerful design, and meaningful user experiences — no
 <div align="center">
   <img src="https://raw.githubusercontent.com/Misbah767/Misbah767/output/snake.svg" alt="snake animation" />
 </div>
-
----
-### Quote
-_"Code. Create. Innovate. Repeat."_ 🔥
