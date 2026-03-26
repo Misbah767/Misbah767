@@ -1,9 +1,19 @@
-<h2 align="left">Hi 👋! I'm Misbah Ilyas, a Full-Stack Developer from Pakistan</h2>
+<h2 align="left">Hi There!</h2>
 
 ### About Me
-Passionate **Full-Stack Developer** building modern, responsive web applications using **React, Next.js, Node.js, Express, MongoDB, TailwindCSS, Three.js, and Framer Motion**.  
+I'm a passionate **Full-Stack Web Developer** building modern, responsive, and interactive web applications.  
+I love creating **frontend animations, smooth UIs**, and backend APIs with **Node.js, Express, MongoDB**.  
+I enjoy learning new frameworks and technologies to keep my skills up-to-date.  
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Misbah767&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ### Skills
 <div align="left">
@@ -25,22 +35,17 @@ Passionate **Full-Stack Developer** building modern, responsive web applications
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" height="30" alt="framer motion logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo" />
 </div>
-
----
-
-### Projects
-- **Chatify** – Real-time chat app built with Next.js, TailwindCSS, Node.js & MongoDB. [View Project](https://misbahilyasdev.vercel.app/)  
-- **ShopApp** – Full e-commerce platform with React, TailwindCSS & REST APIs. [View Project](https://misbahilyasdev.vercel.app/)  
-- **Portfolio** – My personal developer portfolio built with Next.js & Framer Motion. [View Project](https://misbahilyasdev.vercel.app/)  
-
 ---
 
 ### Snake Animation
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Misbah767/Misbah767/output/snake.svg" alt="Snake animation" />
+
+
+
+---
+
+⚡ **Fun fact:** I love creating interactive web animations and smooth UI experiences!
