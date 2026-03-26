@@ -5,10 +5,11 @@
 ---
 
 ###  About Me
-I'm a passionate **Full-Stack Web Developer** who loves building modern, responsive, and interactive web applications.  
-I specialize in creating **smooth UI/UX, animations**, and scalable backend systems.  
-Always learning new technologies and improving my craft 💯  
-
+I’m a passionate Full-Stack Developer who doesn’t just build apps — I craft experiences that feel fast, smooth, and alive.
+I specialize in developing high-performance, scalable web applications with a strong focus on modern UI/UX, animations, and clean architecture.
+From designing pixel-perfect interfaces to building robust backend systems, I love turning ideas into real, impactful products.
+I’m constantly exploring new technologies, pushing my limits, and leveling up my skills to stay ahead in the game.
+I believe in clean code, powerful design, and meaningful user experiences — not just working apps.
 
 ---
 
