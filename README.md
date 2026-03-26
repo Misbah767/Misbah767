@@ -30,6 +30,6 @@ I believe in clean code, powerful design, and meaningful user experiences — no
 ---
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Misbah767/Misbah767/output/snake.svg" alt="snake animation" />
-</div>
+</div> -->
