@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Misbah</h1>
 
-<h3 align="center"> Full Stack Developer | MERN Stack | UI/UX Lover</h3>
+<h3 align="center"> Full Stack Developer | MERN Stack Specialist | Crafting Modern UI/UX </h3>
 
 ---
 
