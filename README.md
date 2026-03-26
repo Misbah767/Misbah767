@@ -5,13 +5,14 @@ I'm a passionate **Full-Stack Web Developer** building modern, responsive, and i
 I love creating **frontend animations, smooth UIs**, and backend APIs with **Node.js, Express, MongoDB**.  
 I enjoy learning new frameworks and technologies to keep my skills up-to-date.  
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Misbah767&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah767&layout=compact&theme=dracula" />
 </div>
 
----
+
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
@@ -38,14 +39,7 @@ I enjoy learning new frameworks and technologies to keep my skills up-to-date.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo" />
 </div>
----
 
 ### Snake Animation
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Misbah767/Misbah767/output/snake.svg" alt="Snake animation" />
-
-
-
----
-
-⚡ **Fun fact:** I love creating interactive web animations and smooth UI experiences!
