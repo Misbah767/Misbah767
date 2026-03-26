@@ -34,9 +34,5 @@ Always learning new technologies and improving my craft 💯
 </div>
 
 ---
-###  Connect With Me
--  Portfolio: https://misbahportfoliodev.vercel.app  
--  Email: hafizamisbah165@gmail.com 
----
 ### Quote
 _"Code. Create. Innovate. Repeat."_ 🔥
