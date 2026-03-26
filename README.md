@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Misbah</h1>
 
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | UI/UX Lover</h3>
+<h3 align="center"> Full Stack Developer | MERN Stack | UI/UX Lover</h3>
 
 ---
 
-### 💫 About Me
+###  About Me
 I'm a passionate **Full-Stack Web Developer** who loves building modern, responsive, and interactive web applications.  
 I specialize in creating **smooth UI/UX, animations**, and scalable backend systems.  
 Always learning new technologies and improving my craft 💯  
@@ -12,7 +12,7 @@ Always learning new technologies and improving my craft 💯
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -36,7 +36,6 @@ Always learning new technologies and improving my craft 💯
 
 ---
 
-### 🐍 Snake Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Misbah767/Misbah767/output/snake.svg" alt="snake animation" />
@@ -44,11 +43,11 @@ Always learning new technologies and improving my craft 💯
 
 ---
 
-### 📫 Connect With Me
-- 💼 Portfolio: https://misbahportfoliodev.vercel.app  
-- 📧 Email: your-email@example.com  
+###  Connect With Me
+-  Portfolio: https://misbahportfoliodev.vercel.app  
+-  Email: your-email@example.com  
 
 ---
 
-### 💡 Quote
+### Quote
 _"Code. Create. Innovate. Repeat."_ 🔥
