@@ -9,14 +9,6 @@ I'm a passionate **Full-Stack Web Developer** who loves building modern, respons
 I specialize in creating **smooth UI/UX, animations**, and scalable backend systems.  
 Always learning new technologies and improving my craft 💯  
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Misbah767&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah767&layout=compact&theme=dracula" height="150" />
-</div>
 
 ---
 
