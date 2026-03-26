@@ -28,14 +28,6 @@ Always learning new technologies and improving my craft 💯
 
 ---
 
-### ⚡ Tools & Libraries
-- JWT Authentication  
-- Framer Motion  
-- GSAP  
-- React Router  
-
----
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Misbah767/Misbah767/output/snake.svg" alt="snake animation" />
