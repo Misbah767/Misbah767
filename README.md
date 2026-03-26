@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Misbah</h1>
+<h1 align="center">Hi There, I'm Misbah</h1>
 
 <h3 align="center"> Full Stack Developer | MERN Stack Specialist | Crafting Modern UI/UX </h3>
 
