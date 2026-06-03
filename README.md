@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 I’m a Full-Stack Developer and AI Engineer focused on building modern, scalable, and intelligent applications.
 
 I work with MERN stack for full-stack development and AI tools like LLMs, LangChain, and LangGraph to build smart systems, automation workflows, and AI-powered products.
