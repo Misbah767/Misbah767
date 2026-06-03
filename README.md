@@ -1,34 +1,44 @@
 <h1 align="center">Hi There, I'm Misbah</h1>
-<h3 align="center"> Full Stack Developer | MERN Stack Specialist | Crafting Modern UI/UX </h3>
+<h3 align="center">Full Stack Developer | AI Engineer | MERN & LLM Systems Builder</h3>
 
 ---
 
-###  About Me
-I’m a passionate Full-Stack Developer who doesn’t just build apps — I craft experiences that feel fast, smooth, and alive.
-I specialize in developing high-performance, scalable web applications with a strong focus on modern UI/UX, animations, and clean architecture.
-From designing pixel-perfect interfaces to building robust backend systems, I love turning ideas into real, impactful products.
-I’m constantly exploring new technologies, pushing my limits, and leveling up my skills to stay ahead in the game.
-I believe in clean code, powerful design, and meaningful user experiences — not just working apps.
+### 👨‍💻 About Me
+I’m a Full-Stack Developer and AI Engineer focused on building modern, scalable, and intelligent applications.
+
+I work with MERN stack for full-stack development and AI tools like LLMs, LangChain, and LangGraph to build smart systems, automation workflows, and AI-powered products.
+
+My goal is to combine web development + AI engineering to create real-world, production-ready solutions with clean architecture and great user experience.
 
 ---
 
-###  Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-  <!-- Line 1 -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
-
-  <br/><br/>
-
-  <!-- Line 2 -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,docker,appwrite,jest,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,docker,python,fastapi,postman" />
 
 </div>
 
 ---
 
+### 🤖 AI & Backend Skills
+- LangChain (LLM Applications & AI Agents)
+- LangGraph (Workflow-based AI Systems)
+- Python (AI Development & Automation)
+- FastAPI (High-performance AI APIs)
+- LLM Integration (OpenAI / Claude / Open Source Models)
+- RAG Systems (Embeddings + Vector DBs)
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/Misbah767/Misbah767/output/snake.svg" alt="snake animation" />
-</div> -->
+---
+
+### 🚀 Focus Areas
+- Full Stack Web Development (MERN / Next.js)
+- AI Agents & Automation
+- LLM Applications
+- Backend Systems & APIs
+- Scalable Production Architecture
+
+---
