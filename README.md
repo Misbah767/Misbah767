@@ -19,15 +19,6 @@ My goal is to combine web development + AI engineering to create real-world, pro
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,docker,python,fastapi,postman" />
-<img src="https://img.shields.io/badge/LangChain-339933?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG_Systems-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector_DBs-009688?style=for-the-badge" />
-
 
 </div>
 
