@@ -1,5 +1,6 @@
   <h1 align="center">Hi There, I'm Misbah</h1>
   <h3 align="center">Full Stack Developer | AI Engineer | Building Intelligent Web & AI Applications </h3>
+
   
   ---
   
@@ -30,11 +31,4 @@ I'm constantly exploring new AI technologies, agentic workflows, and automation 
 
 
   
-  ### 🚀 Focus Areas
-  - Full Stack Web Development (MERN / Next.js)
-  - AI Agents & Automation
-  - LLM Applications
-  - Backend Systems & APIs
-  - Scalable Production Architecture
-  
-  ---
+
