@@ -20,9 +20,9 @@ I'm constantly exploring new AI technologies, agentic workflows, and automation 
   
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,docker,python,fastapi,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,docker,python,fastapi,postman,n8n" />
   <img src="https://cdn.simpleicons.org/n8n" width="48" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="48" />
+
 </p>
   
   </div>
